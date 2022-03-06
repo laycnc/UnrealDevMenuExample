@@ -1,0 +1,6 @@
+[submodule "Plugins/UnrealDevMenu"]
+	path = Plugins/UnrealDevMenu
+	url = https://github.com/laycnc/UnrealDevMenu.git
+[submodule "Plugins/UnrealImGui"]
+	path = Plugins/UnrealImGui
+	url = https://github.com/segross/UnrealImGui.git
